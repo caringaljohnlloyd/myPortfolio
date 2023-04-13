@@ -1,0 +1,24 @@
+#home{
+    height:820px;
+    width: auto;
+    
+}
+#main img{
+    width: 300x;
+    height: 175px;
+}
+.abou-txt h2{
+    font-size: 1.7rem;
+}
+.abou-txt h5{
+    font-size: 1.5rem;
+}
+.input{
+    width: 80%;
+}
+#msg{
+    width: 70%;
+}
+#send{
+    width: 20%;
+}
